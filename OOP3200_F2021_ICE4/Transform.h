@@ -1,9 +1,8 @@
 /*
+ * @file	In-class Exercise 4
  * @author	Russell Waring
  * @date	2021-09-27
  * @desc	Created following along in week 4, class a.
- *
- *
  */
 
 #pragma once
