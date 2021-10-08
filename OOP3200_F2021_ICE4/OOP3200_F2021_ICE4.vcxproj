@@ -24,7 +24,7 @@
     <ProjectGuid>{7328590a-aca6-4807-a414-5474766ab905}</ProjectGuid>
     <RootNamespace>OOP3200F2020Lesson3c</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>OOP3200-F2020-Lesson5</ProjectName>
+    <ProjectName>OOP3200_F2021_Ice4</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
