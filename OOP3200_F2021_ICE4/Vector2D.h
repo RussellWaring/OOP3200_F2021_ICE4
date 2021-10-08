@@ -1,3 +1,10 @@
+/*
+ * @file	In-class Exercise 4, week 5
+ * @author	Russell Waring
+ * @date	2021-10-07
+ * @desc	
+ */
+
 #pragma once
 #ifndef __VECTOR2D__
 #define __VECTOR2D__
