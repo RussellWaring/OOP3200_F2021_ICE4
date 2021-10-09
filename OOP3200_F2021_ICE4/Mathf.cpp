@@ -191,6 +191,7 @@ float Mathf::Clamp01(const float value)
 	return value;
 }
 
+// Linear interpolation between one floating point and another with some kind of t value.
 float Mathf::Lerp(const float a, const float b, const float t)
 {
 	return a + (b - a) * Mathf::Clamp01(t);
